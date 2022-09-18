@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="wechat_green">#7BB32E</color>
+    <color name="wechat_green_new">#A5EF7F</color>
+    <color name="wechat_icon_green">#04C25D</color>
+    <color name="wechat_button_green">#06C15F</color>
+    <color name="background_gray">#EBEEEA</color>
+
+    <color name="icon_blue">#3B83BD</color>
+    <color name="icon_purple">#837CD9</color>
+    <color name="icon_green">#37AA71</color>
+    <color name="icon_brown">#B58557</color>
+    <color name="icon_red">#9F4A47</color>
+</resources>
